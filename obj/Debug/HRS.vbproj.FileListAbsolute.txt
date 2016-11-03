@@ -1,0 +1,43 @@
+C:\Users\ecassid\AppData\Local\Temporary Projects\HRS\obj\Debug\HRS.vbprojResolveAssemblyReference.cache
+C:\Users\ecassid\AppData\Local\Temporary Projects\HRS\obj\Debug\HRS.frmMain.resources
+C:\Users\ecassid\AppData\Local\Temporary Projects\HRS\obj\Debug\HRS.Resources.resources
+C:\Users\ecassid\AppData\Local\Temporary Projects\HRS\obj\Debug\HRS.vbproj.GenerateResource.Cache
+C:\Users\ecassid\AppData\Local\Temporary Projects\HRS\obj\Debug\HRS.xml
+C:\Users\ecassid\AppData\Local\Temporary Projects\HRS\bin\Debug\HRS.exe
+C:\Users\ecassid\AppData\Local\Temporary Projects\HRS\bin\Debug\HRS.pdb
+C:\Users\ecassid\AppData\Local\Temporary Projects\HRS\bin\Debug\HRS.xml
+C:\Users\ecassid\AppData\Local\Temporary Projects\HRS\obj\Debug\HRS.exe
+C:\Users\ecassid\AppData\Local\Temporary Projects\HRS\obj\Debug\HRS.pdb
+C:\Users\ecassid\AppData\Local\Temporary Projects\HRS\obj\Debug\HRS.frmRequest.resources
+C:\Users\ecassid\OneDrive\School\SpringCorp\HRS_SQL\HRS\obj\Debug\HRS.exe
+C:\Users\ecassid\OneDrive\School\SpringCorp\HRS_SQL\HRS\obj\Debug\HRS.xml
+C:\Users\ecassid\OneDrive\School\SpringCorp\HRS_SQL\HRS\obj\Debug\HRS.pdb
+C:\Users\ecassid\OneDrive\School\SpringCorp\HRS_SQL\HRS\bin\Debug\HRS.exe
+C:\Users\ecassid\OneDrive\School\SpringCorp\HRS_SQL\HRS\bin\Debug\HRS.pdb
+C:\Users\ecassid\OneDrive\School\SpringCorp\HRS_SQL\HRS\bin\Debug\HRS.xml
+C:\Users\ecassid\OneDrive\School\SpringCorp\HRS_SQL\HRS\obj\Debug\HRS.vbprojResolveAssemblyReference.cache
+C:\Users\ecassid\OneDrive\School\SpringCorp\HRS_SQL\HRS\obj\Debug\HRS.frmMain.resources
+C:\Users\ecassid\OneDrive\School\SpringCorp\HRS_SQL\HRS\obj\Debug\HRS.frmRequest.resources
+C:\Users\ecassid\OneDrive\School\SpringCorp\HRS_SQL\HRS\obj\Debug\HRS.Resources.resources
+C:\Users\ecassid\OneDrive\School\SpringCorp\HRS_SQL\HRS\obj\Debug\HRS.vbproj.GenerateResource.Cache
+C:\Users\ecassid\OneDrive\School\SpringCorp\HRS_SQL\HRS\bin\Debug\HRS.exe.config
+C:\Users\ecassid\OneDrive\School\SpringCorp\HRS_SQL\HRS\obj\Debug\HRS.frmPayment.resources
+C:\Users\14eca\OneDrive\School\SpringCorp\HRS_SQL\HRS\bin\Debug\HRS.exe.config
+C:\Users\14eca\OneDrive\School\SpringCorp\HRS_SQL\HRS\obj\Debug\HRS.exe
+C:\Users\14eca\OneDrive\School\SpringCorp\HRS_SQL\HRS\obj\Debug\HRS.xml
+C:\Users\14eca\OneDrive\School\SpringCorp\HRS_SQL\HRS\obj\Debug\HRS.pdb
+C:\Users\14eca\OneDrive\School\SpringCorp\HRS_SQL\HRS\bin\Debug\HRS.exe
+C:\Users\14eca\OneDrive\School\SpringCorp\HRS_SQL\HRS\bin\Debug\HRS.pdb
+C:\Users\14eca\OneDrive\School\SpringCorp\HRS_SQL\HRS\bin\Debug\HRS.xml
+C:\Users\14eca\OneDrive\School\SpringCorp\HRS_SQL\HRS\obj\Debug\HRS.vbprojResolveAssemblyReference.cache
+C:\Users\14eca\OneDrive\School\SpringCorp\HRS_SQL\HRS\obj\Debug\HRS.frmMain.resources
+C:\Users\14eca\OneDrive\School\SpringCorp\HRS_SQL\HRS\obj\Debug\HRS.frmPayment.resources
+C:\Users\14eca\OneDrive\School\SpringCorp\HRS_SQL\HRS\obj\Debug\HRS.frmRequest.resources
+C:\Users\14eca\OneDrive\School\SpringCorp\HRS_SQL\HRS\obj\Debug\HRS.frmRoomSelector.resources
+C:\Users\14eca\OneDrive\School\SpringCorp\HRS_SQL\HRS\obj\Debug\HRS.Resources.resources
+C:\Users\14eca\OneDrive\School\SpringCorp\HRS_SQL\HRS\obj\Debug\HRS.vbproj.GenerateResource.Cache
+C:\Users\ecassid\OneDrive\School\SpringCorp\HRS_SQL\HRS\obj\Debug\HRS.frmRoomSelector.resources
+D:\.NET PROJECTS\HRS_SQL (Service Spring Corp)\HRS\bin\Debug\HRS.exe.config
+D:\.NET PROJECTS\HRS_SQL (Service Spring Corp)\HRS\obj\Debug\HRS.exe
+D:\.NET PROJECTS\HRS_SQL (Service Spring Corp)\HRS\obj\Debug\HRS.xml
+D:\.NET PROJECTS\HRS_SQL (Service Spring Corp)\HRS\obj\Debug\HRS.pdb
